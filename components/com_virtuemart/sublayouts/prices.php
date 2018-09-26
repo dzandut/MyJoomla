@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * Show the product prices
+ * Show the product prices test
  *
  * @package    VirtueMart
  * @subpackage
